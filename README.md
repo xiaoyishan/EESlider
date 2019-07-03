@@ -1,6 +1,9 @@
 # EESlider
 已适配屏幕旋转和自动对齐,标签始终显示在正中
 
+默认线条样式:
+
+ ![image](https://github.com/xiaoyishan/EESlider/blob/master/eeline.png)
  ![image](https://github.com/xiaoyishan/EESlider/blob/master/eeslider.png)
 
 展示样式:
